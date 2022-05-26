@@ -3,7 +3,7 @@
 <img src="PythonWrapper.png" Width="150"> 
 
 ## About
-JAI Python Wrapper is a library for controlling the JAI camera using Python. The eBUS SDK is used for direct control of the camera; while this library provdes an interface for Python as an upper layer of eBUS SDK.
+JAI Python Wrapper is a library for controlling the JAI camera using Python. The eBUS SDK is used for direct control of the camera; while this library provides an interface for Python as an upper layer of eBUS SDK.
 
 **Note**: JAI Python Wrapper is not a pure Wrapper function of eBUS SDK. It provides a more abstract API.
 
