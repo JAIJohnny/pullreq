@@ -1,5 +1,5 @@
 # LOGO
-## Purpose of This Software
+## About
 JAI Python Wrapper is a library for controlling the JAI camera using Python. The eBUS SDK is used for direct control of the camera; while this library provdes an interface for Python as an upper layer of eBUS SDK.
 
 **Note**: JAI Python Wrapper is not a pure Wrapper function of eBUS SDK. It provides a more abstract API.
@@ -15,7 +15,7 @@ JAI Python Wrapper is a library for controlling the JAI camera using Python. The
   **Note**: Python 3.8 and 3.9 are tested with sample codes.
 ### 2. Install JAI pyJds:
 1. Download the whl file from https://github.com/jai-rd/pyJds/releases.
-2. Install: `pip install ./pyjds-0.0.4-py3-none-win_amd64.whl`
+2. Install: `pip install ./pyjds-0.0.5-py3-none-win_amd64.whl`
 ## Start Development
 
 **Note**: Pull requests to JAI pyJds are welcome!
@@ -25,7 +25,7 @@ JAI Python Wrapper is a library for controlling the JAI camera using Python. The
 
 2. Link the local pyjds source directory into your python installtion: `python xxxx`
 ## Sample Codes
-Sample codes are available here: xxx
+Sample codes are available here: `xxx`
 ## API Reference
 You can find the API Reference here: https://d2ezksrziasiu7.cloudfront.net/v0/004/_build/pyjds.html
 ## Known Issues
